@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 ruby '2.2.0'
 
+
+gem 'cowsay'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
 # Use SCSS for stylesheets
@@ -33,6 +36,8 @@ gem 'bootstrap-sass', '~> 3.3.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
+
+
 
 
 
